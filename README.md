@@ -94,7 +94,7 @@ Worked across **4 major client projects** in a service-based delivery model, wit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash9025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yash9025&show_icons=true&hide=stars,issues,prs,contribs&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Commits"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9025&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
 <img src="https://leetcard.jacoblin.cool/yash_994?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
