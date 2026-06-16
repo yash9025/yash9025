@@ -75,6 +75,9 @@ Worked across **4 major client projects** in a service-based delivery model, wit
 > **🔹 WriteOffGenie** — *US Fintech SaaS, built solo end-to-end*
 > Designed and developed the entire platform single-handedly — architecture, backend, frontend, and deployment — now live in production.
 
+> **🔹 NessWin** — *Premium Prize Competition Platform*
+> Built the core checkout flow and ticket sequencing logic, ensuring smooth and reliable transaction handling for the platform.
+
 ---
 
 ### 🌟 Featured Projects
