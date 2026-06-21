@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently a **3rd-year CSE student** at **Pandit Deendayal Energy University** (CGPA: 9.49)
+- 🎓 Currently a **3rd-year CSE student** at **Pandit Deendayal Energy University** (CGPA: 9.53)
 - 💼 Working as a **Full-Stack Developer** at **Abould**, a service-based tech company — shipped **4 major client projects**, **2 of which are live in production** with **400+ active users**
 - 🛠️ Solo-architected and built **WriteOffGenie**, a US-based Fintech SaaS platform, end-to-end — from system design to deployment
 - 🧠 Deep interest in **Generative AI & RAG pipelines**, having built AI agents using **Gemini** and **Cohere**
