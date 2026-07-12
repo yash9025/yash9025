@@ -4,10 +4,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawal6353@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yash_994/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash9025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:agrawal6353@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/u/yash_994/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/yash9025)
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ## About
 
-- Full-stack developer & 3rd-year CSE student at **Pandit Deendayal Energy University**, CGPA 9.53
+- Full-stack developer &amp; 3rd-year CSE student at **Pandit Deendayal Energy University**, CGPA 9.53
 - Working at **Abould**, shipped 4 client projects, 2 live in production with 400+ active users
 - Solo-built **WriteOffGenie**, a US fintech SaaS, from system design to deployment
 - Building healthcare RAG pipelines to streamline the patient journey and ease access to care
@@ -38,7 +38,7 @@
 <tr>
 <td valign="top" width="33%">
 
-**Languages & Frontend**
+**Languages &amp; Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react" />
 
@@ -49,11 +49,11 @@
 </td>
 <td valign="top" width="33%">
 
-**Cloud & Infra**
+**Cloud &amp; Infra**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
 
-**AI & Data**
+**AI &amp; Data**
 
 <img src="https://skillicons.dev/icons?i=py" /> Gemini · Cohere · LangChain
 
@@ -166,7 +166,7 @@ Premium prize-competition platform — checkout flow and ticket sequencing engin
 
 | | |
 |---|---|
-| 🔭 Building | RAG-based tools on Gemini & Cohere |
+| 🔭 Building | RAG-based tools on Gemini &amp; Cohere |
 | 🌱 Learning | Spark, Kafka, Hadoop — big data systems |
 | ⚡ Solving | Competitive programming problems daily |
 | 💬 Open to | SaaS, AI/RAG projects, and interesting collaborations |
