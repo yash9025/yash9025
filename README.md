@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=gradient&amp;customColorList=2,6,12&amp;text=YASH%20AGRAWAL&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20%26%20RAG%20%7C%20System%20Design&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=gradient&amp;customColorList=2,6,12&amp;text=YASH%20AGRAWAL&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20and%20RAG%20%7C%20System%20Design&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=2EA0DC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Solo-architected+a+Fintech+SaaS+serving+400%2B+users;Building+RAG+pipelines+with+Gemini+%26+Cohere;LeetCode+1815+%7C+Top+7%25+globally;3rd+Year+CSE+%40+PDEU+%7C+CGPA+9.53" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=2EA0DC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Solo-architected+a+Fintech+SaaS+serving+400%2B+users;Building+RAG+pipelines+with+Gemini+and+Cohere;LeetCode+1815+%7C+Top+7%25+globally;3rd+Year+CSE+%40+PDEU+%7C+CGPA+9.53" alt="Typing SVG" />
 
 </div>
 
@@ -51,18 +51,22 @@
 
 **Cloud &amp; Infra**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kafka" />
 
 **AI &amp; Data**
 
-<img src="https://skillicons.dev/icons?i=py" /> Gemini · Cohere · LangChain
+<img src="https://skillicons.dev/icons?i=py" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&amp;logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logoColor=white" height="28"/>
 
 </td>
 <td valign="top" width="33%">
 
 **Big Data (learning)**
 
-Apache Spark · Kafka · Hadoop
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&amp;logo=apachehadoop&amp;logoColor=black" height="28"/>
 
 **Tools**
 
