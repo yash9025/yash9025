@@ -1,99 +1,171 @@
 <div align="center">
 
-# Hi there, I'm Yash Agrawal 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,6,12&text=YASH%20AGRAWAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20%26%20RAG%20%7C%20System%20Design&descAlignY=58&descSize=18" width="100%"/>
 
-### Full-Stack Developer · MERN | Generative AI & RAG | System Design
+<br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0DC&center=true&vCenter=true&width=600&lines=Building+production-grade+SaaS+products;Solo-built+a+Fintech+platform+serving+400%2B+users;Exploring+RAG+%26+Generative+AI+pipelines;3rd+Year+CSE+%40+PDEU+%7C+CGPA+9.49)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawal6353@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yash_994/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash9025)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:agrawal6353@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yash_994/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yash9025)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2EA0DC&center=true&vCenter=true&width=650&lines=Solo-architected+a+Fintech+SaaS+serving+400%2B+users;Building+RAG+pipelines+with+Gemini+%26+Cohere;LeetCode+1815+%7C+Top+7%25+globally;3rd+Year+CSE+%40+PDEU+%7C+CGPA+9.53" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## About
 
-- 🎓 Currently a **3rd-year CSE student** at **Pandit Deendayal Energy University** (CGPA: 9.53)
-- 💼 Working as a **Full-Stack Developer** at **Abould**, a service-based tech company — shipped **4 major client projects**, **2 of which are live in production** with **400+ active users**
-- 🛠️ Solo-architected and built **WriteOffGenie**, a US-based Fintech SaaS platform, end-to-end — from system design to deployment
-- 🧠 Deep interest in **Generative AI & RAG pipelines**, having built AI agents using **Gemini** and **Cohere**
-- 🏆 Competitive Programmer — **LeetCode 1815** (Top 7% globally) · **Codeforces 1348**
-- 🌱 Currently exploring **Big Data systems** — Spark, Kafka, Hadoop
+I'm a full-stack developer and 3rd-year CSE student at Pandit Deendayal Energy University, currently working at **Abould**, a service-based tech company, where I've shipped 4 client projects — 2 of them live in production, serving 400+ active users combined.
 
----
+I solo-designed and built **WriteOffGenie**, a US-based fintech SaaS platform, end-to-end — architecture, backend, frontend, and deployment. Lately I've been deep in generative AI and RAG pipelines, shipping AI agents on Gemini and Cohere, and I'm now branching into big data systems: Spark, Kafka, and Hadoop.
 
-### 🧰 Tech Stack
+Competitive programming keeps me sharp — LeetCode 1815 (top 7% globally), Codeforces 1348.
 
-<table>
+<br/>
+
+## Tech Stack
+
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 **Languages & Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<img src="https://skillicons.dev/icons?i=js,ts,react" />
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Cloud & Infrastructure**
+**Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
 
 **AI & Data**
 
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square&logo=cohere&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py" /> Gemini · Cohere · LangChain
+
+</td>
+<td valign="top" width="33%">
+
+**Big Data (learning)**
+
+Apache Spark · Kafka · Hadoop
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 💼 Experience & Impact
+## Experience
 
-**Abould** · Full-Stack Developer
-Worked across **4 major client projects** in a service-based delivery model, with **2 shipped to production** serving **400+ active users** combined.
+**Abould — Full-Stack Developer**
+Delivered 4 client projects in a service-based model, 2 shipped to production with 400+ combined active users.
 
-> **🔹 WriteOffGenie** — *US Fintech SaaS, built solo end-to-end*
-> Designed and developed the entire platform single-handedly — architecture, backend, frontend, and deployment — now live in production.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> **🔹 NessWin** — *Premium Prize Competition Platform*
-> Built the core checkout flow and ticket sequencing logic, ensuring smooth and reliable transaction handling for the platform.
+### WriteOffGenie
+US fintech SaaS, built solo end-to-end. Owned the full lifecycle — system design, backend, frontend, and deployment — now live in production.
 
----
+`React` `Node.js` `MongoDB` `AWS`
 
-### 🌟 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-| Project | Description | Stack |
-|---|---|---|
-| **MediConnect** | Healthcare ecosystem with real-time OPD queue management (WebSockets) and a RAG-based AI agent for medical knowledge retrieval | React · Node.js · MongoDB · Socket.io · LangChain · Gemini |
-| **QuickAssist** | AI copilot for customer support agents with real-time chat, smart suggestions & tone correction | React · Node.js · Express · MongoDB · Cohere AI |
-| **NessWin** | Premium prize-competition platform — built the checkout flow & ticket sequencing logic | React · Node.js · Express |
+### NessWin
+Premium prize-competition platform. Built the core checkout flow and ticket sequencing logic for reliable, high-integrity transaction handling.
 
----
+`React` `Node.js` `Express`
 
+</td>
+</tr>
+</table>
 
-💬 **Open to interesting conversations, collaborations, and SaaS/AI projects.**
-Reach out via [Email](mailto:agrawal6353@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yash-agrawal-a59aab216/)!
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yash9025&style=flat-square&color=blue)
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**MediConnect**
+Healthcare ecosystem with real-time OPD queue management over WebSockets and a RAG-based AI agent for medical knowledge retrieval.
+
+`React` `Node.js` `MongoDB` `Socket.io` `LangChain` `Gemini`
+
+[Repo →](https://github.com/yash9025)
+
+</td>
+<td width="33%" valign="top">
+
+**QuickAssist**
+AI copilot for customer support agents — real-time chat, smart reply suggestions, and tone correction.
+
+`React` `Node.js` `Express` `MongoDB` `Cohere`
+
+[Repo →](https://github.com/yash9025)
+
+</td>
+<td width="33%" valign="top">
+
+**NessWin**
+Premium prize-competition platform — checkout flow and ticket sequencing engine.
+
+`React` `Node.js` `Express`
+
+[Repo →](https://github.com/yash9025)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yash9025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9025&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9025&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9025&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## Currently
+
+| | |
+|---|---|
+| 🔭 Building | RAG-based tools on Gemini & Cohere |
+| 🌱 Learning | Spark, Kafka, Hadoop — big data systems |
+| ⚡ Solving | Competitive programming problems daily |
+| 💬 Open to | SaaS, AI/RAG projects, and interesting collaborations |
+
+<br/>
+
+<div align="center">
+
+Reach out via [Email](mailto:agrawal6353@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
+
+<img src="https://komarev.com/ghpvc/?username=yash9025&style=flat-square&color=2EA0DC&label=Profile+Views" />
 
 </div>
