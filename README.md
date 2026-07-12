@@ -17,15 +17,20 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA0DC,100:8E75B2&height=3&width=100%" width="100%"/>
+
 ## About
 
-I'm a full-stack developer and 3rd-year CSE student at Pandit Deendayal Energy University, currently working at **Abould**, a service-based tech company, where I've shipped 4 client projects — 2 of them live in production, serving 400+ active users combined.
-
-I solo-designed and built **WriteOffGenie**, a US-based fintech SaaS platform, end-to-end — architecture, backend, frontend, and deployment. Lately I've been deep in generative AI and RAG pipelines, shipping AI agents on Gemini and Cohere, and I'm now branching into big data systems: Spark, Kafka, and Hadoop.
-
-Competitive programming keeps me sharp — LeetCode 1815 (top 7% globally), Codeforces 1348.
+- Full-stack developer & 3rd-year CSE student at **Pandit Deendayal Energy University** — CGPA 9.53
+- Working at **Abould**, shipped 4 client projects — 2 live in production, 400+ combined active users
+- Solo-architected **WriteOffGenie**, a US fintech SaaS — full lifecycle, design to deployment
+- Building **RAG pipelines** and AI agents on **Gemini** and **Cohere**
+- **LeetCode 1815** · top 7% globally — **Codeforces 1348**
+- Currently exploring big data systems: **Spark, Kafka, Hadoop**
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E75B2,100:FF9900&height=3&width=100%" width="100%"/>
 
 ## Tech Stack
 
@@ -69,6 +74,8 @@ Apache Spark · Kafka · Hadoop
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9900,100:47A248&height=3&width=100%" width="100%"/>
+
 ## Experience
 
 **Abould — Full-Stack Developer**
@@ -96,6 +103,8 @@ Premium prize-competition platform. Built the core checkout flow and ticket sequ
 </table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:47A248,100:D14836&height=3&width=100%" width="100%"/>
 
 ## Featured Projects
 
@@ -136,6 +145,8 @@ Premium prize-competition platform — checkout flow and ticket sequencing engin
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D14836,100:2EA0DC&height=3&width=100%" width="100%"/>
+
 ## GitHub Stats
 
 <div align="center">
@@ -162,10 +173,18 @@ Premium prize-competition platform — checkout flow and ticket sequencing engin
 
 <br/>
 
+<br/>
+
 <div align="center">
+
+### Let's build something
 
 Reach out via [Email](mailto:agrawal6353@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
 
 <img src="https://komarev.com/ghpvc/?username=yash9025&style=flat-square&color=2EA0DC&label=Profile+Views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=2,6,12&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&customColorList=6,12,2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=gradient&customColorList=12,2,6&section=footer" width="100%"/>
