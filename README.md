@@ -20,11 +20,11 @@
 ## About
 
 - Full-stack developer & 3rd-year CSE student at **Pandit Deendayal Energy University**, CGPA 9.53
-- Worked at **Abould** for 6 months as Full Stack Developer, delivered client projects across fintech, healthtech, and wellbeing platforms — **WriteOffGenie**, **NessWin**, and **Euonia**, several live in production with hundreds of active users
+- Working at **Abould**, delivered client projects across fintech, healthtech, and wellbeing platforms - **WriteOffGenie**, **NessWin**, and **Euonia**, several live in production with hundreds of active users
 - Solo-built **WriteOffGenie**, a US fintech SaaS with 500+ users, from system design to deployment
 - Building healthcare RAG pipelines to streamline the patient journey and ease access to care
 - **LeetCode: Max Rating 1867 (Top 5.65% globally)** · **Codeforces 1348**
-- **ICPC Huawei Winter Challenge 2025** — Global Rank 1311 among 36,000+ participants
+- **ICPC Huawei Winter Challenge 2025** - Global Rank 1311 among 36,000+ participants
 
 <br/>
 
@@ -71,15 +71,22 @@
 
 ## Experience
 
-**Abould — Full-Stack Developer**
+**Abould - Full-Stack Developer**
+*Remote · Feb 2026 - July 2026*
+
 Delivered client projects in a service-based model, spanning fintech, prize-competitions, and mental wellbeing platforms.
+
+- Built backend APIs for 2 SaaS products in production with 500+ users, as part of a 3-person dev team.
+- Optimized Redis caching and DB indexing, reducing p95 API latency by 40% on high-traffic endpoints.
+- Developed a real-time Plaid sync engine with instant alerts and daily reminders, cutting FCM pushes by 80% and achieving 79% expense review completion.
+- Engineered a Maker-Checker payout system using Stripe, reducing operational overhead by 65%.
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
 ### WriteOffGenie
-US fintech SaaS, built solo end-to-end. Owned the full lifecycle — system design, backend, frontend, and deployment — now live in production with **500+ active users**.
+US fintech SaaS, built solo end-to-end. Owned the full lifecycle - system design, backend, frontend, and deployment - now live in production with **500+ active users**.
 
 `React` `Node.js` `MongoDB` `AWS`
 
@@ -99,7 +106,7 @@ Premium prize-competition platform. Built the core checkout flow and ticket sequ
 <td width="33%" valign="top">
 
 ### Euonia
-Anonymous emotional wellbeing app for India — moderated peer support circles, professional-supervised spaces, daily mood check-ins, and private journaling. Now live with **500+ active users**.
+Anonymous emotional wellbeing app for India - moderated peer support circles, professional-supervised spaces, daily mood check-ins, and private journaling. Now live with **500+ active users**.
 
 Worked on the backend and built several frontend pages, and participated in DB design and system design alongside the team.
 
@@ -111,8 +118,8 @@ Worked on the backend and built several frontend pages, and participated in DB d
 </tr>
 </table>
 
-**Xenovate Tech Solutions — Web Development Intern**
-*Remote · Aug 2025 – Oct 2025*
+**Xenovate Tech Solutions - Web Development Intern**
+*Remote · Aug 2025 - Oct 2025*
 
 - Built a Dockerized BI platform on GCP, reducing deployment latency by 40% to accelerate data access.
 - Engineered a SaaS credit billing system, improving data retrieval speeds.
@@ -147,7 +154,7 @@ High-concurrency distributed job queue. Zero double-processing across 3 workers 
 <td width="33%" valign="top">
 
 **QuickAssist**
-AI copilot for customer support agents — real-time chat, smart reply suggestions, and tone correction.
+AI copilot for customer support agents - real-time chat, smart reply suggestions, and tone correction.
 
 `React` `Node.js` `Express` `MongoDB` `Cohere`
 
