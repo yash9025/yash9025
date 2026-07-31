@@ -20,7 +20,7 @@
 ## About
 
 - Full-stack developer & 3rd-year CSE student at **Pandit Deendayal Energy University**, CGPA 9.53
-- Working at **Abould**, delivered client projects across fintech, healthtech, and wellbeing platforms — **WriteOffGenie**, **NessWin**, and **Euonia**, several live in production with hundreds of active users
+- Worked at **Abould** for 6 months as Full Stack Developer, delivered client projects across fintech, healthtech, and wellbeing platforms — **WriteOffGenie**, **NessWin**, and **Euonia**, several live in production with hundreds of active users
 - Solo-built **WriteOffGenie**, a US fintech SaaS with 500+ users, from system design to deployment
 - Building healthcare RAG pipelines to streamline the patient journey and ease access to care
 - **LeetCode: Max Rating 1867 (Top 5.65% globally)** · **Codeforces 1348**
