@@ -20,11 +20,11 @@
 ## About
 
 - Full-stack developer & 3rd-year CSE student at **Pandit Deendayal Energy University**, CGPA 9.53
-- Worked at **Abould**, delivered client projects across fintech, healthtech, and wellbeing platforms — **WriteOffGenie**, **NessWin**, and **Euonia**, several live in production with hundreds of active users
+- Working at **Abould**, delivered client projects across fintech, healthtech, and wellbeing platforms — **WriteOffGenie**, **NessWin**, and **Euonia**, several live in production with hundreds of active users
 - Solo-built **WriteOffGenie**, a US fintech SaaS with 500+ users, from system design to deployment
 - Building healthcare RAG pipelines to streamline the patient journey and ease access to care
 - **LeetCode: Max Rating 1867 (Top 5.65% globally)** · **Codeforces 1348**
-- Exploring big data systems: **Spark, Kafka, Hadoop**
+- **ICPC Huawei Winter Challenge 2025** — Global Rank 1311 among 36,000+ participants
 
 <br/>
 
@@ -47,7 +47,7 @@
 
 **Cloud & Infra**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kafka" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
 
 **AI & Data**
 
@@ -58,11 +58,6 @@
 
 </td>
 <td valign="top" width="33%">
-
-**Big Data (learning)**
-
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" height="28"/>
 
 **Tools**
 
@@ -115,6 +110,13 @@ Worked on the backend and built several frontend pages, and participated in DB d
 </td>
 </tr>
 </table>
+
+**Xenovate Tech Solutions — Web Development Intern**
+*Remote · Aug 2025 – Oct 2025*
+
+- Built a Dockerized BI platform on GCP, reducing deployment latency by 40% to accelerate data access.
+- Engineered a SaaS credit billing system, improving data retrieval speeds.
+- Deployed an AI email composer, reducing manual customer outreach drafting time by 90%.
 
 <br/>
 
@@ -177,7 +179,6 @@ AI copilot for customer support agents — real-time chat, smart reply suggestio
 | | |
 |---|---|
 | 🔭 Building | RAG-based tools on Gemini & Cohere |
-| 🌱 Learning | Spark, Kafka, Hadoop — big data systems |
 | ⚡ Solving | Competitive programming problems daily |
 | 💬 Open to | SaaS, AI/RAG projects, and interesting collaborations |
 
