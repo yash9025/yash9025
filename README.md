@@ -1,36 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=gradient&amp;customColorList=2,6,12&amp;text=YASH%20AGRAWAL&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20and%20RAG%20%7C%20System%20Design&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,6,12&text=YASH%20AGRAWAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20and%20RAG%20%7C%20System%20Design&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:agrawal6353@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/u/yash_994/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/yash9025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawal6353@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yash_994/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash9025)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=2EA0DC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Solo-architected+a+Fintech+SaaS+serving+400%2B+users;Building+RAG+pipelines+with+Gemini+and+Cohere;LeetCode+1815+%7C+Top+7%25+globally;3rd+Year+CSE+%40+PDEU+%7C+CGPA+9.53" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2EA0DC&center=true&vCenter=true&width=650&lines=Solo-architected+a+Fintech+SaaS+serving+500%2B+users;Building+RAG+pipelines+with+Gemini+and+Cohere;LeetCode+Max+Rating+1867+%7C+Top+5.65%25+globally;3rd+Year+CSE+%40+PDEU+%7C+CGPA+9.53" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2EA0DC,100:8E75B2&amp;height=3&amp;width=100%" width="100%"/>
-
 ## About
 
-- Full-stack developer &amp; 3rd-year CSE student at **Pandit Deendayal Energy University**, CGPA 9.53
-- Working at **Abould**, shipped 4 client projects, 2 live in production with 400+ active users
-- Solo-built **WriteOffGenie**, a US fintech SaaS, from system design to deployment
+- Full-stack developer & 3rd-year CSE student at **Pandit Deendayal Energy University**, CGPA 9.53
+- Worked at **Abould**, delivered client projects across fintech, healthtech, and wellbeing platforms — **WriteOffGenie**, **NessWin**, and **Euonia**, several live in production with hundreds of active users
+- Solo-built **WriteOffGenie**, a US fintech SaaS with 500+ users, from system design to deployment
 - Building healthcare RAG pipelines to streamline the patient journey and ease access to care
-- **LeetCode 1815**, top 7% globally · **Codeforces 1348**
+- **LeetCode: Max Rating 1867 (Top 5.65% globally)** · **Codeforces 1348**
 - Exploring big data systems: **Spark, Kafka, Hadoop**
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8E75B2,100:FF9900&amp;height=3&amp;width=100%" width="100%"/>
 
 ## Tech Stack
 
@@ -38,7 +34,7 @@
 <tr>
 <td valign="top" width="33%">
 
-**Languages &amp; Frontend**
+**Languages & Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react" />
 
@@ -49,24 +45,24 @@
 </td>
 <td valign="top" width="33%">
 
-**Cloud &amp; Infra**
+**Cloud & Infra**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kafka" />
 
-**AI &amp; Data**
+**AI & Data**
 
 <img src="https://skillicons.dev/icons?i=py" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&amp;logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" height="28"/>
 
 </td>
 <td valign="top" width="33%">
 
 **Big Data (learning)**
 
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&amp;logo=apachehadoop&amp;logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" height="28"/>
 
 **Tools**
 
@@ -78,37 +74,49 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FF9900,100:47A248&amp;height=3&amp;width=100%" width="100%"/>
-
 ## Experience
 
 **Abould — Full-Stack Developer**
-Delivered 4 client projects in a service-based model, 2 shipped to production with 400+ combined active users.
+Delivered client projects in a service-based model, spanning fintech, prize-competitions, and mental wellbeing platforms.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### WriteOffGenie
-US fintech SaaS, built solo end-to-end. Owned the full lifecycle — system design, backend, frontend, and deployment — now live in production.
+US fintech SaaS, built solo end-to-end. Owned the full lifecycle — system design, backend, frontend, and deployment — now live in production with **500+ active users**.
 
 `React` `Node.js` `MongoDB` `AWS`
 
+[Live →](https://www.writeoffgenie.ai/)
+
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### NessWin
 Premium prize-competition platform. Built the core checkout flow and ticket sequencing logic for reliable, high-integrity transaction handling.
 
 `React` `Node.js` `Express`
 
+[Live →](https://www.nesswin.com/)
+
+</td>
+<td width="33%" valign="top">
+
+### Euonia
+Anonymous emotional wellbeing app for India — moderated peer support circles, professional-supervised spaces, daily mood check-ins, and private journaling. Now live with **500+ active users**.
+
+Worked on the backend and built several frontend pages, and participated in DB design and system design alongside the team.
+
+`React` `Node.js` `MongoDB`
+
+[Live →](https://euonia.in/)
+
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:47A248,100:D14836&amp;height=3&amp;width=100%" width="100%"/>
 
 ## Featured Projects
 
@@ -121,7 +129,17 @@ Healthcare ecosystem with real-time OPD queue management over WebSockets and a R
 
 `React` `Node.js` `MongoDB` `Socket.io` `LangChain` `Gemini`
 
-[Repo →](https://github.com/yash9025)
+[Live →](https://mediconnect-wx0o.onrender.com/) · [Repo →](https://github.com/yash9025)
+
+</td>
+<td width="33%" valign="top">
+
+**QueueForge**
+High-concurrency distributed job queue. Zero double-processing across 3 workers under 200 VU k6 load via Postgres `SKIP LOCKED`. 100% task recovery from orphaned jobs via a Reaper daemon, verified through chaos testing. Live telemetry streamed to a React dashboard via WebSocket with single-poll fan-out to clients.
+
+`Node.js` `TypeScript` `PostgreSQL` `Express.js` `Socket.io` `React.js` `Docker`
+
+[Live →](https://queueforge-frontend.onrender.com/) · [Repo →](https://github.com/yash9025)
 
 </td>
 <td width="33%" valign="top">
@@ -131,17 +149,7 @@ AI copilot for customer support agents — real-time chat, smart reply suggestio
 
 `React` `Node.js` `Express` `MongoDB` `Cohere`
 
-[Repo →](https://github.com/yash9025)
-
-</td>
-<td width="33%" valign="top">
-
-**NessWin**
-Premium prize-competition platform — checkout flow and ticket sequencing engine.
-
-`React` `Node.js` `Express`
-
-[Repo →](https://github.com/yash9025)
+[Live →](https://ai-support-quickassist-cmxo.onrender.com/) · [Repo →](https://github.com/yash9025)
 
 </td>
 </tr>
@@ -149,18 +157,16 @@ Premium prize-competition platform — checkout flow and ticket sequencing engin
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:D14836,100:2EA0DC&amp;height=3&amp;width=100%" width="100%"/>
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash9025&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9025&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yash9025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9025&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9025&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9025&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9025&amp;theme=tokyo-night&amp;hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9025&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -170,12 +176,10 @@ Premium prize-competition platform — checkout flow and ticket sequencing engin
 
 | | |
 |---|---|
-| 🔭 Building | RAG-based tools on Gemini &amp; Cohere |
+| 🔭 Building | RAG-based tools on Gemini & Cohere |
 | 🌱 Learning | Spark, Kafka, Hadoop — big data systems |
 | ⚡ Solving | Competitive programming problems daily |
 | 💬 Open to | SaaS, AI/RAG projects, and interesting collaborations |
-
-<br/>
 
 <br/>
 
@@ -185,10 +189,8 @@ Premium prize-competition platform — checkout flow and ticket sequencing engin
 
 Reach out via [Email](mailto:agrawal6353@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yash-agrawal-a59aab216/)
 
-<img src="https://komarev.com/ghpvc/?username=yash9025&amp;style=flat-square&amp;color=2EA0DC&amp;label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=yash9025&style=flat-square&color=2EA0DC&label=Profile+Views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=gradient&amp;customColorList=2,6,12&amp;section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=70&amp;color=gradient&amp;customColorList=6,12,2&amp;section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=50&amp;color=gradient&amp;customColorList=12,2,6&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=2,6,12&section=footer" width="100%"/>
