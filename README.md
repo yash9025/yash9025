@@ -133,7 +133,7 @@ Worked on the backend and built several frontend pages, and participated in DB d
 <tr>
 <td width="33%" valign="top">
 
-**MediConnect**
+### MediConnect
 Healthcare ecosystem with real-time OPD queue management over WebSockets and a RAG-based AI agent for medical knowledge retrieval.
 
 `React` `Node.js` `MongoDB` `Socket.io` `LangChain` `Gemini`
@@ -143,7 +143,7 @@ Healthcare ecosystem with real-time OPD queue management over WebSockets and a R
 </td>
 <td width="33%" valign="top">
 
-**QueueForge**
+### QueueForge
 High-concurrency distributed job queue. Zero double-processing across 3 workers under 200 VU k6 load via Postgres `SKIP LOCKED`. 100% task recovery from orphaned jobs via a Reaper daemon, verified through chaos testing. Live telemetry streamed to a React dashboard via WebSocket with single-poll fan-out to clients.
 
 `Node.js` `TypeScript` `PostgreSQL` `Express.js` `Socket.io` `React.js` `Docker`
@@ -153,7 +153,7 @@ High-concurrency distributed job queue. Zero double-processing across 3 workers 
 </td>
 <td width="33%" valign="top">
 
-**QuickAssist**
+### QuickAssist
 AI copilot for customer support agents - real-time chat, smart reply suggestions, and tone correction.
 
 `React` `Node.js` `Express` `MongoDB` `Cohere`
