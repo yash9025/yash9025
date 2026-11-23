@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2EA0DC&center=true&vCenter=true&width=650&lines=Solo-architected+a+Fintech+SaaS+serving+500%2B+users;Building+RAG+pipelines+with+Gemini+and+Cohere;LeetCode+Max+Rating+1867+%7C+Top+5.65%25+globally;3rd+Year+CSE+%40+PDEU+%7C+CGPA+9.53" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2EA0DC&center=true&vCenter=true&width=650&lines=Solo-architected+a+Fintech+SaaS+serving+500%2B+users;Building+RAG+pipelines+with+Gemini+and+Cohere;LeetCode+Max+Rating+1867+%7C+Top+5.65%25+globally;4th+Year+CSE+%40+PDEU+%7C+CGPA+9.53" alt="Typing SVG" />
 
 </div>
 
